@@ -200,10 +200,10 @@ header .header-content .header-content-inner p {
     margin-right: auto;
   }
   header .header-content .header-content-inner h1 {
-    font-size: 75px;
+    font-size: px;
   }
   header .header-content .header-content-inner p {
-    font-size: 25px;
+    font-size: 18px;
     max-width: 80%;
     margin-left: auto;
     margin-right: auto;
